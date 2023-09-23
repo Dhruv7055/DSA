@@ -1,1 +1,1 @@
-# DSA
+# This repository contains DSA questions.
