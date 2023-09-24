@@ -1,1 +1,1 @@
-# This repository contains DSA questions.
+# This repository contains Data Structure and Algorithms questions.
